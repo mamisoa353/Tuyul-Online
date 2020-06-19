@@ -1,0 +1,7 @@
+{
+  "username" : "your@mail.com",
+  "password" : "password",
+  "headers": {
+    "Connection": "close"
+  }
+}
