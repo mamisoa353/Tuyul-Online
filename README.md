@@ -8,6 +8,7 @@ Script auto claim bonus di cryptoplace.cloud
 4. Install Python3.5 <code> apt install python -y </code> atau <code> apt install python3 -y</code>
 5. Install module Request. <code> pip install </code> atau <code> pip3 install request </code>
 6. Install module Beautiful Soup 4. <code> pip install bs4 </code> atau <code> pip3 install bs4 </code>
+7. Install module lxml. <code>pip install lxml </code>
 7. Install git. <code> apt install git </code>
 8. Clone repo ini. <code> git clone https://github.com/nixon42/Tuyul-Online </code>
 9. Masuk folder. <code> cd Tuyul-Online </code>
